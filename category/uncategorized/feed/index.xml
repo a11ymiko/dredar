@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Dredar &#8211; Quality Assurance, Technical Communication, Education, Audits, Consulting</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=335" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=658" rel="self" type="application/rss+xml" />
+	<link>https://a11ymiko.github.io/dredar/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 10:02:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/02/cropped-dredar-2-32x32.png</url>
+	<url>https://a11ymiko.github.io/dredar/wp-content/uploads/2024/02/cropped-dredar-2-32x32.png</url>
 	<title>Uncategorized &#8211; Dredar &#8211; Quality Assurance, Technical Communication, Education, Audits, Consulting</title>
-	<link>/</link>
+	<link>https://a11ymiko.github.io/dredar/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/02/08/hello-world/</link>
-					<comments>/2024/02/08/hello-world/#comments</comments>
+		<link>https://a11ymiko.github.io/dredar/2024/02/08/hello-world/</link>
+					<comments>https://a11ymiko.github.io/dredar/2024/02/08/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Kacper]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 10:02:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://a11ymiko.github.io/dredar/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/02/08/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://a11ymiko.github.io/dredar/2024/02/08/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
