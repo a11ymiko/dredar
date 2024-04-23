@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized &#8211; Dredar &#8211; Quality Assurance, Technical Communication, Education, Audits, Consulting</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=1854" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=3210" rel="self" type="application/rss+xml" />
 	<link>https://a11ymiko.github.io/dredar/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 10:02:52 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
 	<url>https://a11ymiko.github.io/dredar/wp-content/uploads/2024/02/cropped-dredar-2-32x32.png</url>

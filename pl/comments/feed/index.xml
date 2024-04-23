@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Komentarze do Dredar &#8211; Zapewnianie jakości, komunikacja techniczna, edukacja, audyty, consulting	</title>
-	<atom:link href="http://localhost/pl/comments/feed/?simply_static_page=1835" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/pl/comments/feed/?simply_static_page=3171" rel="self" type="application/rss+xml" />
 	<link>https://a11ymiko.github.io/dredar/</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Apr 2024 12:49:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Apr 2024 14:56:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 </channel>
 </rss>
